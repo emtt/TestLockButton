@@ -53,7 +53,6 @@ public class ScreenReceiver extends BroadcastReceiver {
                 }
 
                 public void onFinish() {
-
                     seconds_screenoff = 0L;
                 }
             }.start();
